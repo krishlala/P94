@@ -1,10 +1,13 @@
-var firebaseConfig = {
-    apiKey: "AIzaSyCy0O_a7P-JI_RnH3mWulfDHk2vTuSJ6e0",
-    authDomain: "kwitter-a4f30.firebaseapp.com",
-    projectId: "kwitter-a4f30",
-    storageBucket: "kwitter-a4f30.appspot.com",
-    messagingSenderId: "380445094317",
-    appId: "1:380445094317:web:413caadd17c174feec3124"
+
+ // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDyC545eHD6mJbhl58f2L9u9SQRpajfgGA",
+    authDomain: "kwitter-68077.firebaseapp.com",
+    databaseURL: "https://kwitter-68077-default-rtdb.firebaseio.com",
+    projectId: "kwitter-68077",
+    storageBucket: "kwitter-68077.appspot.com",
+    messagingSenderId: "243452173023",
+    appId: "1:243452173023:web:ad761df00fa6e77c53676a"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
